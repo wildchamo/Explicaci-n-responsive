@@ -1,0 +1,12 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+root{
+    --primaryColor:#ffffff;
+}
+body{
+    display: grid;
+    grid-template-rows: 100px 300px 100px;
+}
+
